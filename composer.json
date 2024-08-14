@@ -9,6 +9,5 @@
     "files": [
       "customHelpers.php"
     ]
-  },
-  "minimum-stability": "stable"
+  }
 }
