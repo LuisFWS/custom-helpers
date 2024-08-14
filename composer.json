@@ -1,0 +1,13 @@
+{
+  "name": "luisfws/custom-helpers",
+  "description": "Pacote de funções helpers customizadas",
+  "type": "library",
+  "require": {
+    "php": "^8.0"
+  },
+  "autoload": {
+    "files": [
+      "customHelpers.php"
+    ]
+  }
+}
